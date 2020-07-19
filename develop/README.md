@@ -47,8 +47,8 @@
   ## GitHub
   
   ![Image of me](https://avatars3.githubusercontent.com/u/42197087?v=4)
-  - null
+  
   - [GitHub Profile](https://github.com/tarazin)
-  - <null>
+  
   
   
