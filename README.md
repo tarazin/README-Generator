@@ -14,3 +14,21 @@ When creating an open source project on GitHub, it is important to have a qualit
 
  ![alt-text](https://github.com/tarazin/README-Generator/blob/master/example1.jpg)
  ![alt-text](https://github.com/tarazin/README-Generator/blob/master/example2.JPG)
+ 
+ 
+ ## Usage
+
+This command-line application dynamically generates a README.md from a user's input. The application will be invoked with the following command:
+
+                node index.js
+
+The user will be prompted for their GitHub username and other information pertaining to the project the README is for.
+
+## Test
+
+![GitHub license](https://img.shields.io/badge/test-100%25-success)
+
+
+## Repository
+
+- [Project Repo](https://github.com/hoffman1200/Homework-09)
