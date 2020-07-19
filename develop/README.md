@@ -1,7 +1,7 @@
 
   # **Good README Generator**
   
-  ![GitHub license] (https://img.shields.io/badge/Made%20by-%40tarazin-pink)
+  ![GitHub license](https://img.shields.io/badge/Made%20by-%40tarazin-pink)
   
   ## Description 
   
@@ -29,11 +29,11 @@
   
   ## Licence
   
- ![GitHub license] (https://img.shields.io/badge/license-MIT-blue.svg)
+ ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Contributors
   
- ![GitHub license] (https://img.shields.io/badge/Made%20by-%40tarazin-pink)
+ ![GitHub license](https://img.shields.io/badge/Made%20by-%40tarazin-pink)
   
   ## Test
   
