@@ -8,4 +8,8 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ### App working example
 
-![alt-text](https://github.com/tarazin/README-Generator/blob/master/working-app.gif)
+![alt-text](https://github.com/tarazin/README-Generator/blob/master/working-app.gif
+
+### README example
+
+ ![alt-text](link)
