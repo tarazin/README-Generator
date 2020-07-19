@@ -12,4 +12,4 @@ When creating an open source project on GitHub, it is important to have a qualit
 
 ### README example
 
- ![alt-text](link)
+ ![alt-text](https://github.com/tarazin/README-Generator/blob/master/example1.jpg)
